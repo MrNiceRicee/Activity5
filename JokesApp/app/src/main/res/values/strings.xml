@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokesApp2</string>
+    <string name="Joke1">What do you call a cheese thats not yours?</string>
+    <string name="Joke2">What is a freudian slip?</string>
+    <string name="Joke3">What is a button competition?</string>
+    <string name="Joke4">What are water proof earbuds?</string>
+    <string name="Joke5">SomeButton</string>
+    <string name="Joke6">I give up</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FastClickerGame</string>
+    <string name="TimeLeft">Time left: 0</string>
+    <string name="Clicks">Total Clicks: 0</string>
+    <string name="ClickMe">Click Me</string>
+    <string name="StartText">Start</string>
+    <string name="Highscore">Current Highscore : 0</string>
+</resources>
